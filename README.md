@@ -78,3 +78,4 @@ The [test.py](https://github.com/Akawi85/Email-classification-with-bert/blob/mai
 3. Write more advanced unit tests for the program
 4. Create a web interface as a replacement for command line implementation
 5. Dockerize the program to eliminate operating system dependencies.
+   docker run email-assistant python3 predict.py "Sample email text here"
