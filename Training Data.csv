@@ -1,54 +1,54 @@
-"Email Text","Category"
-"Thank you for your help.","Thank You"
-"I appreciate your assistance.","Thank You"
-"Grateful for your support.","Thank You"
-"Thanks a lot!","Thank You"
-"I'm going through a tough time. Can you help?","Other"
-"I need assistance with a difficult situation.","Other"
-"Please, I'm in a crisis. Can you assist me?","Other"
-"I'll think about it and get back to you.","Other"
-"Hello, how are you doing?","Other"
-"I'm struggling right now. Can you help?","Other"
-"Sorry, I can't help you with this.","Other"
-"Can we discuss this further?","Other"
-"Thank you for your prompt response.","Thank You"
-"I'm really grateful for your support.","Thank You"
-"Thanks for your assistance.","Thank You"
-"I'm facing a challenging issue. Can you assist?","Other"
-"Urgent help needed!","Other"
-"Please provide more details.","Other"
-"Let's continue the conversation.","Other"
-"Hello there!","Other"
-"I'm no longer interested.","Other"
-"I found another solution.","Other"
-"Not looking for help right now.","Other"
-"Sorry, I can't assist with this.","Other"
-"Can we explore this further?","Other"
-"Thanks a million!","Thank You"
-"Your help means a lot.","Thank You"
-"Appreciate your time and effort.","Thank You"
-"I need more information.","Other"
-"Urgent matter, please respond.","Other"
-"Please respond to my inquiry.","Other"
-"Hi, how are you today?","Other"
-"I'm not interested at this time.","Other"
-"I've found another way.","Other"
-"I'll get back to you later.","Other"
-"Thanks for everything.","Thank You"
-"Your support is invaluable.","Thank You"
-"I can't comprehend this, can you help?","Other"
-"Urgent request for assistance.","Other"
-"Please shed light on this.","Other"
-"Let's discuss this further.","Other"
-"Hello, what's going on?","Other"
-"I'm no longer interested in this.","Other"
-"I've sorted it out myself.","Other"
-"Not seeking help currently.","Other"
-"Sorry, can't provide assistance.","Other"
-"Can we delve into this further?","Other"
-"Thank you for your kindness.","Thank You"
-"Your assistance is greatly appreciated.","Thank You"
-"Thanks for being so helpful.","Thank You"
-"I'm puzzled, can you clarify?","Other"
-"Urgent issue, please respond.","Other"
-"Please clarify your previous message.","Other"
+Email Text,label
+Thank you for your help.,Thank You
+I appreciate your assistance.,Thank You
+Grateful for your support.,Thank You
+Thanks a lot!,Thank You
+I'm going through a tough time. Can you help?,Other
+I need assistance with a difficult situation.,Other
+"Please, I'm in a crisis. Can you assist me?",Other
+I'll think about it and get back to you.,Other
+"Hello, how are you doing?",Other
+I'm struggling right now. Can you help?,Other
+"Sorry, I can't help you with this.",Other
+Can we discuss this further?,Other
+Thank you for your prompt response.,Thank You
+I'm really grateful for your support.,Thank You
+Thanks for your assistance.,Thank You
+I'm facing a challenging issue. Can you assist?,Other
+Urgent help needed!,Other
+Please provide more details.,Other
+Let's continue the conversation.,Other
+Hello there!,Other
+I'm no longer interested.,Other
+I found another solution.,Other
+Not looking for help right now.,Other
+"Sorry, I can't assist with this.",Other
+Can we explore this further?,Other
+Thanks a million!,Thank You
+Your help means a lot.,Thank You
+Appreciate your time and effort.,Thank You
+I need more information.,Other
+"Urgent matter, please respond.",Other
+Please respond to my inquiry.,Other
+"Hi, how are you today?",Other
+I'm not interested at this time.,Other
+I've found another way.,Other
+I'll get back to you later.,Other
+Thanks for everything.,Thank You
+Your support is invaluable.,Thank You
+"I can't comprehend this, can you help?",Other
+Urgent request for assistance.,Other
+Please shed light on this.,Other
+Let's discuss this further.,Other
+"Hello, what's going on?",Other
+I'm no longer interested in this.,Other
+I've sorted it out myself.,Other
+Not seeking help currently.,Other
+"Sorry, can't provide assistance.",Other
+Can we delve into this further?,Other
+Thank you for your kindness.,Thank You
+Your assistance is greatly appreciated.,Thank You
+Thanks for being so helpful.,Thank You
+"I'm puzzled, can you clarify?",Other
+"Urgent issue, please respond.",Other
+Please clarify your previous message.,Other

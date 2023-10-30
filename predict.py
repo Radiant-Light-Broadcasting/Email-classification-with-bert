@@ -39,25 +39,25 @@ def main():
     text = args.email_text
 
     # check that the required argument contains relevant words for better prediction
-    if ('email' in text) | ('e-mail' in text) | ("mail" in text) | ('mailed' in text) \
-        | ('share' in text) | ('shared' in text) | ("sharing" in text):
+    # if ('email' in text) | ('e-mail' in text) | ("mail" in text) | ('mailed' in text) \
+    #     | ('share' in text) | ('shared' in text) | ("sharing" in text):
 
-        classifier = pipeline(task='text-classification', model=model, tokenizer=tokenizer)
-        predicted = classifier(text)
-        predicted_label = predicted[0]['label']
+    classifier = pipeline(task='text-classification', model=model, tokenizer=tokenizer)
+    predicted = classifier(text)
+    predicted_label = predicted[0]['label']
 
-        print(' The mail to classify is: \n', ''.join(text), '\n --------------------------------------\
+    print(' The mail to classify is: \n', ''.join(text), '\n --------------------------------------\
 ------------------------------------------------')
 
-        show_pred_class = np.where(predicted_label == 'LABEL_1',
-                                'Student wants to know if can share',
-                                    'Student has shared')
-            
-        print('\n The mail is classified as: \n', show_pred_class)
+    show_pred_class = np.where(predicted_label == 'LABEL_1',
+                            'Thank You email',
+                                'Other email')
+        
+    print('\n The mail is classified as: ', show_pred_class)
 
-    else:
-        print("please ensure your email body contains at least one of the following keywords: \
-             \n email \n e-mail \n share \n shared \n sharing")
+    # else:
+    #     print("please ensure your email body contains at least one of the following keywords: \
+    #          \n email \n e-mail \n share \n shared \n sharing")
 
 # ----------------------------------------------------------------------------------------------------------
 if __name__ == '__main__':
